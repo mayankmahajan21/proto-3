@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDataProvider>
+  <Drinks id="Martini">
+    <item1>A cocktail made with gin and vermouth, and garnished with an olive or a lemon twist</item1>
+  </Drinks>
+  <Drinks id="Margarita">
+    <item1>A cocktail consisting of tequila, orange liqueur, and lime juice often served with salt on the rim of the glass</item1>
+  </Drinks>
+  <Drinks id="Red Wine">
+    <item1>Fine wine made from dark-colored grape varieties</item1>
+  </Drinks>
+  <Drinks id="Scotch">
+    <item1>Fine Malt whisky or grain whisky, made in Scotland</item1>
+  </Drinks>
+  <Drinks id="Vodka">
+    <item1>Clear distilled alcoholic beverage</item1>
+  </Drinks>
+  <Drinks id="Beer - Snow and Budweiser">
+    <item1>Snow Plow Porter is smooth and full-bodied brew
+			Budweiser is malty-sweet and aromatic brew
+		</item1>
+  </Drinks>
+  <Drinks id="SoftDrinks">
+    <item1>Options: Pepsi, Fanta, Sprite</item1>
+  </Drinks>
+  <Drinks id="Virgin Mojito">
+    <item1>Fresh lime juice,soda water and fresh mint garnished with more mint and lime wedges</item1>
+  </Drinks>
+  <Drinks id="Virgin Mary">
+    <item1>Mocktail with tangy, savory, spicy, and refreshing taste</item1>
+  </Drinks>
+  <Drinks id="Raspberry Iced Tea">
+    <item1>Raspberry flavoured Ice Tea</item1>
+  </Drinks>
+  <Drinks id="Watermelon Lemonade">
+    <item1>Lemonade mixed with watermelon juice and garnished with mint leaves</item1>
+  </Drinks>
+  <Drinks id="Fruit Sangria">
+    <item1>Punch with fresh fruit, mint, apple juice and lemonade</item1>
+  </Drinks>
+  <Drinks id="one1">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one2">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one3">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one4">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one5">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one6">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one7">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one8">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+  <Drinks id="one9">
+    <A_drinks_count>0</A_drinks_count>
+    <NA_drinks_count>0</NA_drinks_count>
+  </Drinks>
+</XmlDataProvider>

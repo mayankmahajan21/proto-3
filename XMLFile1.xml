@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDataProvider>
+  <Events id="one7">
+    <ID>7</ID>
+    <FName>ishita</FName>
+    <LName>khare</LName>
+    <Date>26/05/2022 00:00:00</Date>
+    <Event_Type>Birthday</Event_Type>
+    <Venue></Venue>
+    <Food></Food>
+    <Guest_No></Guest_No>
+    <Venue_Cost></Venue_Cost>
+    <Cake></Cake>
+    <Days>24</Days>
+  </Events>
+  <Events id="one8">
+    <ID>8</ID>
+    <FName>khushal</FName>
+    <LName>Khare</LName>
+    <Date>03/05/2022 00:00:00</Date>
+    <Event_Type>Wedding</Event_Type>
+    <Venue></Venue>
+    <Food></Food>
+    <Guest_No></Guest_No>
+    <Venue_Cost></Venue_Cost>
+    <Cake></Cake>
+    <Days>1</Days>
+  </Events>
+  <Events id="one9">
+    <ID>9</ID>
+    <FName>mayank</FName>
+    <LName>mahajan</LName>
+    <Date>16/05/2022 00:00:00</Date>
+    <Event_Type>Wedding</Event_Type>
+    <Venue> </Venue>
+    <Food> </Food>
+    <Guest_No> </Guest_No>
+    <Venue_Cost> </Venue_Cost>
+    <Cake> </Cake>
+    <Days>14</Days>
+  </Events>
+</XmlDataProvider>

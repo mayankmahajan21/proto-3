@@ -1,0 +1,212 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XmlDataProvider>
+  <Food id="tiramisu">
+    <item1>Coffee-soaked ladyfingers layered with mascarpone cream and dusted with rich cocoa</item1>
+    <item2>Contains: Milk, Eggs, Wheat, Gluten</item2>
+    <item3>heavy cream, mascarpone cheese, egg, yolk, glucose, sugar, coffee extract, vanilla bean, Biscuit, Coffee Syrup, Cocoa Powder
+	  </item3>
+  </Food>
+  <Food id="pannacotta">
+    <item1>Sweetened and aromatized with vanilla cream thickened with gelatin and molded</item1>
+    <item2>Contains: Milk, Eggs, Gluten</item2>
+    <item3>Sugar, Whole EGG Powder, Maize Starch, Gelling Agents (E407, E417), Starch (WHEAT), Emulsifier, Flavouring (Vanilla Powder)
+	  </item3>
+  </Food>
+  <Food id="CremeBrulee">
+    <item1>Rich custard base topped with a layer of hardened caramelized sugar</item1>
+    <item2>Contains: Milk, Eggs, Soya, Nuts</item2>
+    <item3>Sugar, Whole EGG Powder, Maize Starch, Gelling Agents (E407, E417), Starch (WHEAT), Emulsifier, Flavouring (Vanilla Powder)
+	  </item3>
+  </Food>
+  <Food id="Doughnut">
+    <item1>Rich custard base topped with a layer of hardened caramelized sugar. Flavors: Chocolate, Strawberry, Oreo</item1>
+    <item2>Contains: gluten, lactose, egg and may contain traces of nuts or soya</item2>
+    <item3>Yeast, Caster Sugar, Milk, Salt, Butter, Eggs, Oil
+	  </item3>
+  </Food>
+  <Food id="Cupcakes">
+    <item1>Tiny sponge cakes topped with a swirl of creamy frosting. Flavors: Caramel, Peanut Butter, Oreo</item1>
+    <item2>Contains: Milk, Eggs, nuts and nut oils, gluten, soya</item2>
+    <item3>flour, buttermilk, butter, sugar, eggs, passion fruit syrup, vanilla, baking powder, baking soda, dark chocolate, chia seeds and salt
+	  </item3>
+  </Food>
+  <Food id="Icecream">
+    <item1>Sweetened frozen milk dessert with flavours. Flavors: Chocolate, Strawberry, Cookies n Cream</item1>
+    <item2>Contains: Nuts, Milk, Gluten, Soy, Eggs, Sesame, Gelatin</item2>
+    <item3>Sugar, Eggs, Milk, Cream, Flavouring
+		</item3>
+  </Food>
+  <Food id="Brownies">
+    <item1>Fudgy chocolate baked confection with chocolate chips and marshmallows</item1>
+    <item2>Contains: eggs, milk, soy, wheat, gluten</item2>
+    <item3>Flour, butter, eggs, chocolate and/or cocoa powder, sugar
+		</item3>
+  </Food>
+  <Food id="PenneVodka">
+    <item1>Pasta dish made with vodka and penne pasta usually made with heavy cream, crushed tomatoes and fresh onions</item1>
+    <item2>Contains:  gluten, wheat and eggs</item2>
+    <item3>garlic, onion, butter, olive oil, vodka, tomato, heavy cream, parmesan, salt, pepper, herbs for garnish</item3>
+  </Food>
+  <Food id="Pad Thai Noodles">
+    <item1>Stir-fried rice noodle dish commonly served with scrambled eggs, peanuts and vegetables</item1>
+    <item2>Contains:  wheat/gluten, soy, eggs, peanuts</item2>
+    <item3>rice noodle, tamarind paste, soy sauce, sugar, garlic, spring onion, vegetable oil, beansprouts, peanuts, vegetable oil</item3>
+  </Food>
+  <Food id="Truffle Risotto">
+    <item1>Buttery risotto topped with shaved fresh black winter truffles</item1>
+    <item2>Contains: gluten, nuts, peanuts, dairy, soya, sesame, egg, mustard, sulphates and celery</item2>
+    <item3>butter, olive oil, onions, mushrooms, Arborio Rice, White Wine, White Truffle Oil, Parmesan Cheese, Salt and Ground Black Pepper, Parsely</item3>
+  </Food>
+  <Food id="Eggplant Parmesan">
+    <item1>Italian dish made with fried, sliced eggplant layered with cheese and tomato sauce and baked</item1>
+    <item2>Contains: gluten, dairy, soya, sesame, egg, mustard</item2>
+    <item3>Eggplants, eggs, bread crumbs, tomatoes, mozzarella cheese, Parmesan cheese, Basil</item3>
+  </Food>
+  <Food id="macncheese">
+    <item1>Elbow macaroni noodles with creamy cheddar, American and Neufchatel cheese</item1>
+    <item2>Contains: Eggs, Milk, Soy, Wheat</item2>
+    <item3>macaroni, butter, plain flour, milk, cheddar grated, Parmesan
+		</item3>
+  </Food>
+  <Food id="Jackfruit Taco">
+    <item1>Crispy tacos with fresh jackfruit filling</item1>
+    <item2>Contains: Milk, Wheat, soybean, egg and mustard</item2>
+    <item3>onions, olive oil, mushroom, sliced, chipotle peppers, chili powder, ground cumin, oregano, granulated garlic, jackfruit,pumpkin seeds, yeast, corn tortillas, cabbage, salsa, cilantro leaves
+		</item3>
+  </Food>
+  <Food id="Blackbean Burger">
+    <item1>Crisp and fresh blackbean patty burger with lettuce and sweet onion sauce</item1>
+    <item2>Contains: Milk, soybean, gluten, mustard, eggs, wheat</item2>
+    <item3>Lettuce,sesame, onion, Black Beans, mustard, Wheat Flour, Cooked Garbanzo Beans, Dried Cilantro, Paprika, Yeast, Starch, Sunflower Oil, Corn, Cooked Brown Rice
+		</item3>
+  </Food>
+  <Food id="Pizzaquattroformaggi">
+    <item1>Neapolitan style dough topped with fior di latte mozzarella, grated grana padano and scottish produced cheeses - Aged Gouda</item1>
+    <item2>Contains: WHEAT, MILK (DAIRY)</item2>
+    <item3> flour, Mozzarell, tomato, basil, fontina, gouda, gorgonzo, grana padano, herbs for garnish
+		</item3>
+  </Food>
+  <Food id="Chicken Nuggets">
+    <item1>Battered fried crispy deboned chicken</item1>
+    <item2>Contains: WHEAT, gluten</item2>
+    <item3>Boneless Chicken, Vegetable Oil, Wheat Flour, Yellow Corn Flour, Vegetable Starch, Yeast
+		</item3>
+  </Food>
+  <Food id="Salami-Cheese-Sandwich">
+    <item1>Toasted sandwich with salami, cheese and lettuce</item1>
+    <item2>Contains: milk, mustard, wheat and spelt wheat gluten, peanuts, nuts, sesame
+		</item2>
+    <item3>salami, gouda, lettuce, bell pepper, tomato, cucumber and dressing, white flour, yeast
+		</item3>
+  </Food>
+  <Food id="Lasagna">
+    <item1>Pasta with stacked layers of lasagne with fillings of vegetables, cheeses, and seasonings and spices, topped with grated cheese</item1>
+    <item2>Contains: Gluten, Crustaceans, Eggs, Fish, Peanuts, Soybeans, Milk, Nuts, Celery, Mustard, Sesame
+		</item2>
+    <item3>pasta sheets, ricotta or mozzarella cheese, tomato sauce, spinach, zucchini, olives, mushrooms, wine, garlic, onion, and oregano.
+		</item3>
+  </Food>
+  <Food id="Peperoni Pizza">
+    <item1>Thin slices of peperoni on pizza topped with grated cheese and herbs</item1>
+    <item2>Contains: WHEAT, MILK (DAIRY)
+		</item2>
+    <item3>pork, beef, salt, spices,paprika, herbs for garnish, white flour, yeast
+		</item3>
+  </Food>
+  <Food id="Butter Chicken">
+    <item1>Curry made from chicken with a spiced tomato and rich butter sauce</item1>
+    <item2>Contains: gluten, milk, MUSTARD, NUTS
+		</item2>
+    <item3>Chicken Tikka, Tomato, Cashew Paste, Onion, Cream, Milk, Butter, Sugar, Garlic, Ginger, Coriander, bay leaf, spices, basmati rice</item3>
+  </Food>
+  <Food id="Lamb rack">
+    <item1>Lamb served with aromatic wine sauce and herbs</item1>
+    <item2>Contains: Soya, Milk, Egg, Celery, Mustard, Sulphur Dioxide
+		</item2>
+    <item3>Lamb, Maize Starch, Cracked Black Pepper, Ground Spices, Fennel, Star Anise, Cinnamon, Clove, Dried Onion, Cracked Red Chilli</item3>
+  </Food>
+  <Food id="Chicken Casserole">
+    <item1>Cheesy shredded chicked with herbs and vegetables</item1>
+    <item2>Contains: Soya, Dairy, Mustard
+		</item2>
+    <item3>penne pasta, rotisserie chicken, tomato sauce, dried parsley, dried oregano, dried basil, red pepper flakes, shredded mozzarella cheese, Italian-style bread crumbs
+		</item3>
+  </Food>
+  <Food id="Fish">
+    <item1>Lamb served with aromatic wine sauce and herbs</item1>
+    <item2>Contains: Soya, Dairy, Mustard, milk, nuts
+		</item2>
+    <item3>fish fillets, pecan, panko, seasonings, oil, Mayonnaise, mustard sauce
+		</item3>
+  </Food>
+  <Food id="tarts">
+    <item1>tiny dessert tarts with cheesecake filling topped with fruits and nuts</item1>
+    <item2>Contains: gluten, milk, soy, tree nuts, wheat
+		</item2>
+    <item3>flour, sugar, butter, almond extract, cream cheese, fruits and berries
+		</item3>
+  </Food>
+  <Food id="one1">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one2">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one3">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one4">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one5">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one6">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one7">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one8">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+  <Food id="one9">
+    <V_food_count>0</V_food_count>
+    <kid_v_food_count>0</kid_v_food_count>
+    <kid_nv_food_count>0</kid_nv_food_count>
+    <des_count>0</des_count>
+    <NV_food_count>0</NV_food_count>
+  </Food>
+</XmlDataProvider>

@@ -1,0 +1,27 @@
+﻿<Window x:Class="WpfApp5.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp5"
+        Title="Window3" Height="450" Width="800">
+    
+
+    <Grid>
+        <Image Source="C:\Users\mayan\Desktop\g3.jpg" Stretch="Fill"  />
+        <ListBox x:Name="Show_Orders" FontSize="14" HorizontalAlignment="Left" Height="240" Margin="110,80,0,0" VerticalAlignment="Top" Width="172" />
+        <Label Height = "23" 
+                Name = "label2" 
+                
+                Width = "120" 
+                Margin = "344,172,0,0" 
+                HorizontalAlignment = "Left" 
+                VerticalAlignment = "Top">
+        </Label>
+        <Button Content="Show Details" HorizontalAlignment="Left" Height="34" Margin="344,81,0,0" VerticalAlignment="Top" Width="113" Click="Button_Click"/>
+        <Label x:Name="Label" HorizontalAlignment="Left" Margin="344,133,0,0" VerticalAlignment="Top" Width="196" Height="25"/>
+        <TextBlock x:Name="tb1" FontSize="14" Visibility="Hidden" Background="White" HorizontalAlignment="Left" Height="84" Margin="344,211,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Width="321" TextAlignment="Center"/>
+        <Button Content="Button" HorizontalAlignment="Left" Height="28" Margin="355,320,0,0" VerticalAlignment="Top" Width="118" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
